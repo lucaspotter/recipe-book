@@ -3,8 +3,8 @@
 Hiya. Everything is certainly disastrous right now, hmm? So I figured we might as well cook over the ball of fire that is the Earth.
 
 ## Directory
-
-***Freedom Ramen:*** *for when democracy dies in the hands of the few* <hr>
+***Freedom Ramen:*** *for when democracy dies in the hands of the few*<br>
+***Kickass Hot Choccy:*** *chestnuts roasting on an open fire* <hr>
 More to come!
 
 <!---
